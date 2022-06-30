@@ -1,0 +1,17 @@
+{
+  "global": {
+    "Black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "small": {
+      "value": "2px",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "$small * 2",
+      "type": "borderRadius"
+    }
+  },
+  "$themes": []
+}
