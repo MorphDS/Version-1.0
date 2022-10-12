@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 Oct 2022 16:05:38 GMT
+ * Generated on Wed, 12 Oct 2022 16:09:57 GMT
  */
 
 :root {
-  --sd-global-colors-brand-primary: #eb1681;
+  --sd-global-colors-brand-primary: #eb5816;
   --sd-global-colors-brand-secondary: #2b3348;
   --sd-global-colors-brand-disabled: #e6e7e9;
   --sd-global-colors-secondary-teal: #1db9c3;
@@ -237,4 +237,7 @@
   --sd-global-text-case-none: none;
   --sd-global-text-decoration-none: none;
   --sd-global-text-decoration-underline: underline;
+  --sd-global-flat: 0px;
+  --sd-global-regular: 4px;
+  --sd-global-curved: 30px;
 }
