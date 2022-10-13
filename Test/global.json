@@ -1663,7 +1663,7 @@
     "type": "borderRadius"
   },
   "Regular": {
-    "value": "8px",
+    "value": "4px",
     "type": "borderRadius"
   },
   "Candy": {
